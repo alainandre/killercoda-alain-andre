@@ -1,0 +1,8 @@
+{
+  "title": "Sandbox",
+  "description": "This is a sandbox course to try out new scenarios",
+  "items": [
+    { "path": "ubuntu" },
+    { "path": "kubernetes" }
+  ]
+}
