@@ -21,7 +21,7 @@
         "title": "Inspecting a Pod",
         "text": "inspecting/text.md",
         "verify": "inspecting/verify.sh"
-      },
+      }
 	
     ],
     "finish": {
