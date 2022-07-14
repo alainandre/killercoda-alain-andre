@@ -1,0 +1,1 @@
+In this scenario you are going to learn about Pod resource. You are going to learn how to create single and multi conaiter Pods, how to define container resources and how to configure readiness and liveness probes how they work and what they do.

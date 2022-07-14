@@ -1,0 +1,37 @@
+{
+  "title": "Pods",
+  "description": "Learn how to deploy and work with pods.",
+  "details": {
+    "intro": {
+      "title": "Intro",
+      "text": "intro/text.md",
+    },
+    "steps": [
+      {
+        "title": "Creating a simple Pod",
+        "text": "creating/text.md",
+        "verify": "creating/verify.sh"
+      },
+      {
+        "title": "Creating a multi-container Pod",
+        "text": "multi-container/text.md",
+        "verify": "multi-container/verify.sh"
+      },
+      {
+        "title": "Inspecting a Pod",
+        "text": "inspecting/text.md",
+        "verify": "inspecting/verify.sh"
+      },
+	
+    ],
+    "finish": {
+      "title": "Finish",
+      "text": "finish/text.md",
+      "foreground": "finish/foreground.sh",
+      "background": "finish/background.sh"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
